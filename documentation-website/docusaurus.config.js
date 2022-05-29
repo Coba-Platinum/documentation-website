@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Coba Platinum Documentation',
   tagline: 'The official source of documentation for products created by Coba Platinum',
-  url: 'https://Cobacabana.github.io',
-  baseUrl: '/documentation-website/',
+  url: 'https://docs.cobaplatinum.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
