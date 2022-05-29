@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug: /installation
+slug: /platinum_cnr/installation
 ---
 
 # Installing Platinum CNR
