@@ -4,6 +4,12 @@ import styles from "../css/projects.module.css";
 
 const projects: Project[] = [
   {
+    title: "Unity Tools",
+    description:
+      "Unity editor tools to speed up development and assist with debugging!",
+    link: "/unity-tools",
+  },
+  {
     title: "Minecraft Plugins",
     description:
       "Fun plugins created for Minecraft servers.",
@@ -22,7 +28,7 @@ function Project(project: Project) {
       </div>
       <div>
         <Link className="button button--primary" to={project.link}>
-          View Minecraft Plugins
+          View More
         </Link>
       </div>
     </div>

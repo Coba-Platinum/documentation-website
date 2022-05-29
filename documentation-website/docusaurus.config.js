@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Coba Platinum Documentation',
+  title: 'Coba Platinum Docs',
   tagline: 'The official source of documentation for projects created by Coba Platinum',
   url: 'https://docs.cobaplatinum.com',
   baseUrl: '/',
@@ -59,6 +59,7 @@ const config = {
           src: 'img/cobaplatinumlogo.jpg',
         },
         items: [
+          {to: 'unity-tools', label: 'Unity Tools', position: 'left'},
           {to: 'minecraft-plugins', label: 'Minecraft Plugins', position: 'left'},
           /*{
             type: 'page',

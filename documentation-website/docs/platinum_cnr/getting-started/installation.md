@@ -8,7 +8,7 @@ Installing **Platinum Cops and Robbers** is extremely simple. You will have a se
 
 ## STEP 1: Create a Minecraft Server
 
-For this plugin to work, you will need to run a **minecraft server platform** that is based off of **CraftBukkit**. These servers have the ability to run plugins, which allow you to add custom functionality to the server
+For this plugin to work, you will need to run a **Minecraft server platform** that is based off of **CraftBukkit**. These servers have the ability to run plugins, which allow you to add custom functionality to the server
 without needing to mod the game. Becuase of this, anyone can join the server and enjoy the custom functionality with a completely fresh, vanilla install of Minecraft! Because of this, it is **NOT** possible to use this plugin
 on a normal minecraft server!!!
 
