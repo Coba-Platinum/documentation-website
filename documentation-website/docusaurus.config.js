@@ -61,12 +61,6 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            type: 'doc',
             docId: 'platinum_cnr/getting-started/introduction',
             position: 'left',
             label: 'Platinum CNR',
@@ -87,7 +81,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: 'platinum_cnr/getting-started/introduction',
               },
             ],
           },
