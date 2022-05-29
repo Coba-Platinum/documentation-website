@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-slug: /platinum_cnr/first-prison
 ---
 
 # Setting Up Your First Prison
