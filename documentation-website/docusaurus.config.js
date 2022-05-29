@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Coba Platinum Documentation',
-  tagline: 'The official source of documentation for products created by Coba Platinum',
+  tagline: 'The official source of documentation for projects created by Coba Platinum',
   url: 'https://docs.cobaplatinum.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -53,18 +53,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Coba Platinum Documentation',
+        title: 'Coba Platinum Docs',
         logo: {
           alt: 'Coba Platinum Logo',
           src: 'img/cobaplatinumlogo.jpg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'platinum_cnr/getting-started/introduction',
+          {to: 'minecraft-plugins', label: 'Minecraft Plugins', position: 'left'},
+          /*{
+            type: 'page',
+            docId: '/minecraft-plugins/',
             position: 'left',
-            label: 'Platinum CNR',
-          },
+            label: 'Minecraft Plugins',
+          },*/
           /*{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -80,8 +81,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: 'platinum_cnr/getting-started/introduction',
+                label: 'Minecraft Plugins',
+                to: '/minecraft-plugins/',
               },
             ],
           },

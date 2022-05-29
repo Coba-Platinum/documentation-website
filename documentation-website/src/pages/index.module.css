@@ -21,3 +21,14 @@
   align-items: center;
   justify-content: center;
 }
+
+.hero__title
+{
+   color: purple;
+   background-color: plum;
+}
+
+[data-theme='dark'] .hero__subtitle
+{
+   color: white;
+}
