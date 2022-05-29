@@ -8,7 +8,7 @@ Though it can seem complex due to the amount of features available, creating a b
 
 :::info INFO
 
-For more in-depth documentation on customization options for your prisons, check out the **[prison customization guide](docs.cobaplatinum.com)**
+For more in-depth documentation on customization options for your prisons, check out the **[prison customization guide](https://docs.cobaplatinum.com)**
 
 :::
 
@@ -38,7 +38,7 @@ Though you can **create prisons** entirely in the configuration files, this is n
 
 :::info INFO
 
-For more in-depth documentation on available commands, check out the **[commands archive](docs.cobaplatinum.com)**
+For more in-depth documentation on available commands, check out the **[commands archive](https://docs.cobaplatinum.com)**
 
 :::
 
