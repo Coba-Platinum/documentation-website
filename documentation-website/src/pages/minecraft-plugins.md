@@ -23,4 +23,4 @@ Below are all the Minecraft plugins that have documentation available:
 
 ## Available Minecraft Plugins
 
-[![Platinum CNR](https://img.shields.io/badge/Platinum%20Cops%20and%20Robbers-In%20Development-brightgreen?style=for-the-badge)](/platinum_cnr/introduction)
+[![Platinum CNR](https://img.shields.io/badge/Platinum%20Cops%20and%20Robbers%20🔗-In%20Development-brightgreen?style=for-the-badge)](/platinum_cnr/introduction)

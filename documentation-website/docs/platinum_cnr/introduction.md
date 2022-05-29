@@ -4,11 +4,17 @@ sidebar_position: 1
 
 # Introduction
 
+:::caution IN DEVELOPMENT
+
+This documentation website is still **in development**! Please expect there to be missing information and potentially broken web pages!
+
+:::
+
 ## Welcome to Platinum Cops and Robbers!
 
 Welcome to the official documentation for using the **Platinum Cops and Robbers** plugin for Minecraft servers!. 
 
-:::danger Warning
+:::danger WARNING
 
 This plugin, along with being my very first Minecraft plugin, is also still early in development. Please expect to run into missing features or things not working as intended as you use this plugin!
 
