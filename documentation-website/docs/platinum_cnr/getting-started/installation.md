@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /installation
 ---
 
 # Installing Platinum CNR
@@ -25,7 +26,7 @@ I would highly recommend that you use **[Paper](https://papermc.io/)** for your 
 Once you **Monecraft server** is created, you can then download the latest releases of **Platinum Cops and Robbers** from [SpigotMC](https://www.spigotmc.org/). Once you have successfuly downloaded the file, you will then need to either
 **copy** or **move** the downloaded `PlatinumCNR.jar` file into the `plugins/` directory within your root server directory.
 
-:::tip Tip
+:::info INFO
 
 If you downloaded the file from **SpigotMC**, you may need to unzip the downloaded file first!
 

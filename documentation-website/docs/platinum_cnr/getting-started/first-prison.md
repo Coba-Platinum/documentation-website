@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+slug: /first-prison
 ---
 
 # Setting Up Your First Prison
